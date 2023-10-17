@@ -1,0 +1,16 @@
+[package]
+name = "atomic-engine-rs"
+version = "1.0.0"
+edition = "2021"
+authors = [
+  "Brandon Erb <brandon.m.erb@gmail.com>"
+]
+description = "A Vite alternative for blazing fast web development"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4"
+fern = { version = "0.6", features = ["colored"] }
+humantime = "2.1.0"

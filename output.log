@@ -1,0 +1,33 @@
+[2023-10-16T06:28:17Z INFO atomic_engine_rs] Hello, world!
+[2023-10-16T06:28:17Z WARN atomic_engine_rs] Warning!
+[2023-10-16T06:28:17Z DEBUG atomic_engine_rs] Now exiting.
+[2023-10-16T06:28:47Z] [INFO] [atomic_engine_rs] Hello, world!
+[2023-10-16T06:28:47Z] [WARN] [atomic_engine_rs] Warning!
+[2023-10-16T06:28:47Z] [DEBUG] [atomic_engine_rs] Now exiting.
+[2023-10-16T06:31:20Z] [INFO] Hello, world!
+[2023-10-16T06:31:20Z] [WARN] Warning!
+[2023-10-16T06:31:20Z] [DEBUG] Now exiting.
+[2023-10-16T06:36:34Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:36:34Z] [[33mWARN[0m] Warning!
+[2023-10-16T06:36:34Z] [[37mDEBUG[0m] Now exiting.
+[2023-10-16T06:36:56Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:36:56Z] [[33mWARN[0m] Warning!
+[2023-10-16T06:36:56Z] [[37mDEBUG[0m] Now exiting.
+[2023-10-16T06:37:37Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:37:37Z] [[33mWARN[0m] Warning!
+[2023-10-16T06:37:37Z] [[37mDEBUG[0m] Now exiting.
+[2023-10-16T06:39:02Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:39:02Z] [[33mWARN[0m] Warning!
+[2023-10-16T06:39:02Z] [[30mDEBUG[0m] Now exiting.
+[2023-10-16T06:40:02Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:40:02Z] [[93mWARN[0m] Warning!
+[2023-10-16T06:40:02Z] [[30mDEBUG[0m] Now exiting.
+[2023-10-16T06:52:15Z] [[32mINFO[0m] Hello, world!
+[2023-10-16T06:52:15Z] [[93mWARN[0m] Warning!
+[2023-10-16T06:52:15Z] [[30mDEBUG[0m] Now exiting.
+[2023-10-16T07:04:16Z] [[32mINFO[0m] [31mERROR[0m Hello, world!
+[2023-10-16T07:04:16Z] [[93mWARN[0m] [31mERROR[0m Warning!
+[2023-10-16T07:04:16Z] [[30mDEBUG[0m] [31mERROR[0m Now exiting.
+[2023-10-16T07:05:31Z] [[32mINFO[0m] [34mINFO[0m Hello, world!
+[2023-10-16T07:05:31Z] [[93mWARN[0m] [34mINFO[0m Warning!
+[2023-10-16T07:05:31Z] [[30mDEBUG[0m] [34mINFO[0m Now exiting.
